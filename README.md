@@ -3,6 +3,6 @@
  * 1. class ?
  * 2. Object ?
  * 3. constructor
- * 4. Looping statement 
+ * 4. Control statement 
  * 5. methods
  */
