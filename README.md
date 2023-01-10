@@ -3,6 +3,6 @@
  * 1. class ?
  * 2. Object ?
  * 3. constructor
- * 4. pass by value and pass by reference
+ * 4. Looping statement 
  * 5. methods
  */
